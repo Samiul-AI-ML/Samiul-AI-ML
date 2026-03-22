@@ -25,4 +25,4 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/samiul-mca/
+- LinkedIn: https://www.linkedin.com/in/samiul-ai-ml/
