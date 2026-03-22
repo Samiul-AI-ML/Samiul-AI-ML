@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Samiul Hoque 👋
 
-<!--
-**Samiul-AI-ML/Samiul-AI-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (AI & ML) Student  
+💻 Python | Machine Learning | Deep Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Building real-world AI & ML projects  
+- Interested in Machine Learning Engineer roles  
+- Experience in AI automation & digital marketing  
+
+---
+
+## 🛠️ Skills
+- Python, Pandas, NumPy  
+- Machine Learning, Deep Learning  
+- Data Analysis  
+
+---
+
+## 📂 Projects
+🔹 Coming Soon...
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/samiul-mca/
